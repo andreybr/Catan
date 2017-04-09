@@ -19,6 +19,7 @@ namespace CatanGameV2
         XNACS1Rectangle oWater = new XNACS1Rectangle(new Vector2(51f, 35f), Global.PixelSize(730), Global.PixelSize(609), "WaterBG");
 
         Robber oRobber;
+        //XNACS1Base.World.SetBackgroundColor(Color.Black);
 
         KeyboardState oKeyState;
 
